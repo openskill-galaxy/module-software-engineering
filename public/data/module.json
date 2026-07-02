@@ -1,0 +1,41 @@
+{
+  "id": "mod-software-engineering",
+  "slug": "module-software-engineering",
+  "title": "软件工程与项目管理",
+  "subtitle": "面向软件工程学生和开发者",
+  "description": "面向软件工程学生开发者和团队协作者的软件生命周期需求分析用例建模UML架构设计敏捷开发项目管理质量保障文档写作与项目交付训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "软件工程",
+    "需求分析",
+    "UML",
+    "项目管理",
+    "敏捷开发",
+    "架构设计",
+    "软件质量",
+    "课程设计"
+  ],
+  "estimatedHours": 160,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "💻",
+  "repoUrl": "https://github.com/openskill-galaxy/module-software-engineering",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 111
+  }
+}

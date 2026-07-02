@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "se-case-001",
+    "title": "需求分析案例1",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003221",
+      "se-q-001814",
+      "se-q-001186"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-002",
+    "title": "用例图案例2",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000078",
+      "se-q-002617",
+      "se-q-002649"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-003",
+    "title": "类图案例3",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001746",
+      "se-q-003548",
+      "se-q-000576"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-004",
+    "title": "顺序图案例4",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000999",
+      "se-q-002324",
+      "se-q-002651"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-005",
+    "title": "用户故事案例5",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003089",
+      "se-q-000454",
+      "se-q-000669"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-006",
+    "title": "WBS案例6",
+    "description": "通过WBS掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000675",
+      "se-q-003086",
+      "se-q-001153"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-007",
+    "title": "迭代计划案例7",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000617",
+      "se-q-003021",
+      "se-q-000703"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-008",
+    "title": "风险清单案例8",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003114",
+      "se-q-002540",
+      "se-q-002477"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-009",
+    "title": "测试协作案例9",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001370",
+      "se-q-000733",
+      "se-q-001803"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-010",
+    "title": "缺陷流转案例10",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002043",
+      "se-q-001073",
+      "se-q-003335"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-011",
+    "title": "版本发布案例11",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003527",
+      "se-q-002732",
+      "se-q-003163"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-012",
+    "title": "接口设计案例12",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000033",
+      "se-q-001132",
+      "se-q-002103"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-013",
+    "title": "数据库设计案例13",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001415",
+      "se-q-001563",
+      "se-q-000527"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-014",
+    "title": "课程设计报告案例14",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000960",
+      "se-q-002090",
+      "se-q-000652"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-015",
+    "title": "SE面试案例15",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001496",
+      "se-q-001053",
+      "se-q-000334"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-016",
+    "title": "需求分析案例16",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001805",
+      "se-q-003694",
+      "se-q-003210"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-017",
+    "title": "用例图案例17",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002218",
+      "se-q-002512",
+      "se-q-003341"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-018",
+    "title": "类图案例18",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001430",
+      "se-q-000643",
+      "se-q-003414"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-019",
+    "title": "顺序图案例19",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001649",
+      "se-q-003196",
+      "se-q-000531"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-020",
+    "title": "用户故事案例20",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000681",
+      "se-q-000694",
+      "se-q-002703"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-021",
+    "title": "WBS案例21",
+    "description": "通过WBS掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000312",
+      "se-q-003054",
+      "se-q-001737"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-022",
+    "title": "迭代计划案例22",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000113",
+      "se-q-001624",
+      "se-q-002107"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-023",
+    "title": "风险清单案例23",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001594",
+      "se-q-001375",
+      "se-q-001779"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-024",
+    "title": "测试协作案例24",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000582",
+      "se-q-001361",
+      "se-q-003158"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-025",
+    "title": "缺陷流转案例25",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000869",
+      "se-q-002026",
+      "se-q-001442"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-026",
+    "title": "版本发布案例26",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002561",
+      "se-q-000344",
+      "se-q-001332"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-027",
+    "title": "接口设计案例27",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003525",
+      "se-q-002276",
+      "se-q-000671"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-028",
+    "title": "数据库设计案例28",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002544",
+      "se-q-003383",
+      "se-q-002190"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-029",
+    "title": "课程设计报告案例29",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002233",
+      "se-q-001879",
+      "se-q-001982"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-030",
+    "title": "SE面试案例30",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000748",
+      "se-q-003610",
+      "se-q-002320"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-031",
+    "title": "需求分析案例31",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003330",
+      "se-q-003022",
+      "se-q-002060"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-032",
+    "title": "用例图案例32",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001855",
+      "se-q-002134",
+      "se-q-003525"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-033",
+    "title": "类图案例33",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002855",
+      "se-q-002663",
+      "se-q-000206"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-034",
+    "title": "顺序图案例34",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003212",
+      "se-q-000800",
+      "se-q-000215"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-035",
+    "title": "用户故事案例35",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000379",
+      "se-q-003145",
+      "se-q-001882"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-036",
+    "title": "WBS案例36",
+    "description": "通过WBS掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001493",
+      "se-q-000755",
+      "se-q-003116"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-037",
+    "title": "迭代计划案例37",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003227",
+      "se-q-001698",
+      "se-q-000485"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-038",
+    "title": "风险清单案例38",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000714",
+      "se-q-001177",
+      "se-q-002862"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-039",
+    "title": "测试协作案例39",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002981",
+      "se-q-002013",
+      "se-q-002173"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-040",
+    "title": "缺陷流转案例40",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000249",
+      "se-q-002896",
+      "se-q-000901"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-041",
+    "title": "版本发布案例41",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000208",
+      "se-q-003534",
+      "se-q-002246"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-042",
+    "title": "接口设计案例42",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003423",
+      "se-q-002578",
+      "se-q-000445"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-043",
+    "title": "数据库设计案例43",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003518",
+      "se-q-000180",
+      "se-q-001406"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-044",
+    "title": "课程设计报告案例44",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000536",
+      "se-q-003525",
+      "se-q-001931"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-045",
+    "title": "SE面试案例45",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000202",
+      "se-q-001994",
+      "se-q-002091"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-046",
+    "title": "需求分析案例46",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000035",
+      "se-q-001036",
+      "se-q-003461"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-047",
+    "title": "用例图案例47",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000844",
+      "se-q-002381",
+      "se-q-000081"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-048",
+    "title": "类图案例48",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003359",
+      "se-q-000295",
+      "se-q-003549"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-049",
+    "title": "顺序图案例49",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002373",
+      "se-q-001670",
+      "se-q-000431"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-050",
+    "title": "用户故事案例50",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003364",
+      "se-q-003174",
+      "se-q-003139"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-051",
+    "title": "WBS案例51",
+    "description": "通过WBS掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000671",
+      "se-q-000922",
+      "se-q-002455"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-052",
+    "title": "迭代计划案例52",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000463",
+      "se-q-001612",
+      "se-q-001898"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-053",
+    "title": "风险清单案例53",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002812",
+      "se-q-003353",
+      "se-q-001767"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-054",
+    "title": "测试协作案例54",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001156",
+      "se-q-001478",
+      "se-q-001168"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-055",
+    "title": "缺陷流转案例55",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000099",
+      "se-q-002587",
+      "se-q-001249"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-056",
+    "title": "版本发布案例56",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001370",
+      "se-q-002605",
+      "se-q-000385"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-057",
+    "title": "接口设计案例57",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003413",
+      "se-q-003328",
+      "se-q-002987"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-058",
+    "title": "数据库设计案例58",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001858",
+      "se-q-002715",
+      "se-q-001377"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-059",
+    "title": "课程设计报告案例59",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003053",
+      "se-q-001955",
+      "se-q-002697"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-060",
+    "title": "SE面试案例60",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000935",
+      "se-q-003375",
+      "se-q-000481"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-061",
+    "title": "需求分析案例61",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002984",
+      "se-q-001609",
+      "se-q-001963"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-062",
+    "title": "用例图案例62",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002983",
+      "se-q-003630",
+      "se-q-000974"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-063",
+    "title": "类图案例63",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003489",
+      "se-q-003259",
+      "se-q-003148"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-064",
+    "title": "顺序图案例64",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001040",
+      "se-q-002160",
+      "se-q-002077"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-065",
+    "title": "用户故事案例65",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001417",
+      "se-q-002748",
+      "se-q-003181"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-066",
+    "title": "WBS案例66",
+    "description": "通过WBS掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003105",
+      "se-q-003432",
+      "se-q-003138"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-067",
+    "title": "迭代计划案例67",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002857",
+      "se-q-000709",
+      "se-q-002784"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-068",
+    "title": "风险清单案例68",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001931",
+      "se-q-002793",
+      "se-q-003007"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-069",
+    "title": "测试协作案例69",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003242",
+      "se-q-002818",
+      "se-q-003525"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-070",
+    "title": "缺陷流转案例70",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002850",
+      "se-q-001707",
+      "se-q-002938"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-071",
+    "title": "版本发布案例71",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000956",
+      "se-q-000073",
+      "se-q-000701"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-072",
+    "title": "接口设计案例72",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001406",
+      "se-q-001000",
+      "se-q-003556"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-073",
+    "title": "数据库设计案例73",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000448",
+      "se-q-002500",
+      "se-q-000290"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-074",
+    "title": "课程设计报告案例74",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002043",
+      "se-q-002613",
+      "se-q-001833"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-075",
+    "title": "SE面试案例75",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001560",
+      "se-q-003466",
+      "se-q-002084"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-076",
+    "title": "需求分析案例76",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002090",
+      "se-q-001815",
+      "se-q-001788"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-077",
+    "title": "用例图案例77",
+    "description": "通过用例图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001251",
+      "se-q-002931",
+      "se-q-003485"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-078",
+    "title": "类图案例78",
+    "description": "通过类图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001895",
+      "se-q-000571",
+      "se-q-001081"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-079",
+    "title": "顺序图案例79",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002980",
+      "se-q-001024",
+      "se-q-002096"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-080",
+    "title": "用户故事案例80",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001598",
+      "se-q-001912",
+      "se-q-000859"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-081",
+    "title": "WBS案例81",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001126",
+      "se-q-001898",
+      "se-q-001202"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-082",
+    "title": "迭代计划案例82",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003149",
+      "se-q-002992",
+      "se-q-000672"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-083",
+    "title": "风险清单案例83",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003319",
+      "se-q-001723",
+      "se-q-000928"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-084",
+    "title": "测试协作案例84",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000599",
+      "se-q-001215",
+      "se-q-001347"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-085",
+    "title": "缺陷流转案例85",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002473",
+      "se-q-002906",
+      "se-q-002734"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-086",
+    "title": "版本发布案例86",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001268",
+      "se-q-002841",
+      "se-q-001613"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-087",
+    "title": "接口设计案例87",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000680",
+      "se-q-002782",
+      "se-q-002784"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-088",
+    "title": "数据库设计案例88",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000951",
+      "se-q-002371",
+      "se-q-001717"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-089",
+    "title": "课程设计报告案例89",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002429",
+      "se-q-003415",
+      "se-q-003554"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-090",
+    "title": "SE面试案例90",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001629",
+      "se-q-000622",
+      "se-q-001847"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-091",
+    "title": "需求分析案例91",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002382",
+      "se-q-001187",
+      "se-q-000113"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-092",
+    "title": "用例图案例92",
+    "description": "通过用例图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003621",
+      "se-q-002990",
+      "se-q-002037"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-093",
+    "title": "类图案例93",
+    "description": "通过类图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002198",
+      "se-q-001719",
+      "se-q-000746"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-094",
+    "title": "顺序图案例94",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002680",
+      "se-q-002832",
+      "se-q-000956"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-095",
+    "title": "用户故事案例95",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002196",
+      "se-q-001836",
+      "se-q-001029"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-096",
+    "title": "WBS案例96",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001035",
+      "se-q-002951",
+      "se-q-003113"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-097",
+    "title": "迭代计划案例97",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002965",
+      "se-q-000113",
+      "se-q-003463"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-098",
+    "title": "风险清单案例98",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000349",
+      "se-q-001851",
+      "se-q-000757"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-099",
+    "title": "测试协作案例99",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003518",
+      "se-q-000378",
+      "se-q-002946"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-100",
+    "title": "缺陷流转案例100",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002898",
+      "se-q-003307",
+      "se-q-001502"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-101",
+    "title": "版本发布案例101",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003215",
+      "se-q-001833",
+      "se-q-001259"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-102",
+    "title": "接口设计案例102",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000666",
+      "se-q-000760",
+      "se-q-002897"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-103",
+    "title": "数据库设计案例103",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002850",
+      "se-q-000027",
+      "se-q-001538"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-104",
+    "title": "课程设计报告案例104",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000037",
+      "se-q-001976",
+      "se-q-003037"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-105",
+    "title": "SE面试案例105",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000306",
+      "se-q-002150",
+      "se-q-002109"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-106",
+    "title": "需求分析案例106",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001733",
+      "se-q-003096",
+      "se-q-002989"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-107",
+    "title": "用例图案例107",
+    "description": "通过用例图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001196",
+      "se-q-003356",
+      "se-q-003585"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-108",
+    "title": "类图案例108",
+    "description": "通过类图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001556",
+      "se-q-002473",
+      "se-q-003526"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-109",
+    "title": "顺序图案例109",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000466",
+      "se-q-003321",
+      "se-q-003658"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-110",
+    "title": "用户故事案例110",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002146",
+      "se-q-000461",
+      "se-q-001136"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-111",
+    "title": "WBS案例111",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003542",
+      "se-q-003492",
+      "se-q-000934"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-112",
+    "title": "迭代计划案例112",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002561",
+      "se-q-002600",
+      "se-q-003463"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-113",
+    "title": "风险清单案例113",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002186",
+      "se-q-002640",
+      "se-q-002025"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-114",
+    "title": "测试协作案例114",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003439",
+      "se-q-001762",
+      "se-q-000922"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-115",
+    "title": "缺陷流转案例115",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002020",
+      "se-q-001200",
+      "se-q-003243"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-116",
+    "title": "版本发布案例116",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001273",
+      "se-q-001805",
+      "se-q-003416"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-117",
+    "title": "接口设计案例117",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002007",
+      "se-q-003629",
+      "se-q-000021"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-118",
+    "title": "数据库设计案例118",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003052",
+      "se-q-000146",
+      "se-q-000951"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-119",
+    "title": "课程设计报告案例119",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000221",
+      "se-q-002456",
+      "se-q-002831"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-120",
+    "title": "SE面试案例120",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002348",
+      "se-q-000429",
+      "se-q-000468"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-121",
+    "title": "需求分析案例121",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000534",
+      "se-q-001946",
+      "se-q-001954"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-122",
+    "title": "用例图案例122",
+    "description": "通过用例图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002038",
+      "se-q-003242",
+      "se-q-000511"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-123",
+    "title": "类图案例123",
+    "description": "通过类图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001771",
+      "se-q-001163",
+      "se-q-000323"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-124",
+    "title": "顺序图案例124",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003646",
+      "se-q-003578",
+      "se-q-003441"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-125",
+    "title": "用户故事案例125",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002511",
+      "se-q-001254",
+      "se-q-002636"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-126",
+    "title": "WBS案例126",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000033",
+      "se-q-003674",
+      "se-q-003503"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-127",
+    "title": "迭代计划案例127",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000789",
+      "se-q-001609",
+      "se-q-000194"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-128",
+    "title": "风险清单案例128",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002730",
+      "se-q-001479",
+      "se-q-001060"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-129",
+    "title": "测试协作案例129",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001291",
+      "se-q-002753",
+      "se-q-003495"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-130",
+    "title": "缺陷流转案例130",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001432",
+      "se-q-003146",
+      "se-q-003018"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-131",
+    "title": "版本发布案例131",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002460",
+      "se-q-001029",
+      "se-q-000620"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-132",
+    "title": "接口设计案例132",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002937",
+      "se-q-000629",
+      "se-q-000178"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-133",
+    "title": "数据库设计案例133",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000428",
+      "se-q-003420",
+      "se-q-003289"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-134",
+    "title": "课程设计报告案例134",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002429",
+      "se-q-003696",
+      "se-q-000224"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-135",
+    "title": "SE面试案例135",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003031",
+      "se-q-003601",
+      "se-q-003574"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-136",
+    "title": "需求分析案例136",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001920",
+      "se-q-003435",
+      "se-q-002263"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-137",
+    "title": "用例图案例137",
+    "description": "通过用例图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000025",
+      "se-q-000660",
+      "se-q-002142"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-138",
+    "title": "类图案例138",
+    "description": "通过类图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001396",
+      "se-q-002518",
+      "se-q-001023"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-139",
+    "title": "顺序图案例139",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001226",
+      "se-q-000964",
+      "se-q-002389"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-140",
+    "title": "用户故事案例140",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002763",
+      "se-q-001281",
+      "se-q-001301"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-141",
+    "title": "WBS案例141",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002975",
+      "se-q-002312",
+      "se-q-001358"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-142",
+    "title": "迭代计划案例142",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002333",
+      "se-q-001240",
+      "se-q-002614"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-143",
+    "title": "风险清单案例143",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002996",
+      "se-q-002295",
+      "se-q-003675"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-144",
+    "title": "测试协作案例144",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003607",
+      "se-q-002091",
+      "se-q-000816"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-145",
+    "title": "缺陷流转案例145",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000067",
+      "se-q-002328",
+      "se-q-000314"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-146",
+    "title": "版本发布案例146",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001240",
+      "se-q-000795",
+      "se-q-001039"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-147",
+    "title": "接口设计案例147",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003662",
+      "se-q-000282",
+      "se-q-002817"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-148",
+    "title": "数据库设计案例148",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003156",
+      "se-q-001825",
+      "se-q-003560"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-149",
+    "title": "课程设计报告案例149",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002768",
+      "se-q-002881",
+      "se-q-003244"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-150",
+    "title": "SE面试案例150",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002885",
+      "se-q-002832",
+      "se-q-000726"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-151",
+    "title": "需求分析案例151",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002413",
+      "se-q-003309",
+      "se-q-001556"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-152",
+    "title": "用例图案例152",
+    "description": "通过用例图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001283",
+      "se-q-000987",
+      "se-q-001135"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-153",
+    "title": "类图案例153",
+    "description": "通过类图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000920",
+      "se-q-002082",
+      "se-q-003568"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-154",
+    "title": "顺序图案例154",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002848",
+      "se-q-002051",
+      "se-q-003074"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-155",
+    "title": "用户故事案例155",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001910",
+      "se-q-003170",
+      "se-q-001733"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-156",
+    "title": "WBS案例156",
+    "description": "通过WBS掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000881",
+      "se-q-002277",
+      "se-q-002345"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-157",
+    "title": "迭代计划案例157",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001717",
+      "se-q-002194",
+      "se-q-002878"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-158",
+    "title": "风险清单案例158",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002256",
+      "se-q-002881",
+      "se-q-001612"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-159",
+    "title": "测试协作案例159",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002926",
+      "se-q-001457",
+      "se-q-000682"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-160",
+    "title": "缺陷流转案例160",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002560",
+      "se-q-002369",
+      "se-q-000869"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-161",
+    "title": "版本发布案例161",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001472",
+      "se-q-001185",
+      "se-q-000306"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-162",
+    "title": "接口设计案例162",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001704",
+      "se-q-003201",
+      "se-q-003482"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-163",
+    "title": "数据库设计案例163",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001952",
+      "se-q-000095",
+      "se-q-001392"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-164",
+    "title": "课程设计报告案例164",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001357",
+      "se-q-000406",
+      "se-q-001457"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-165",
+    "title": "SE面试案例165",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001154",
+      "se-q-000342",
+      "se-q-001363"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-166",
+    "title": "需求分析案例166",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000114",
+      "se-q-002065",
+      "se-q-000821"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-167",
+    "title": "用例图案例167",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002692",
+      "se-q-000232",
+      "se-q-002277"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-168",
+    "title": "类图案例168",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001489",
+      "se-q-001346",
+      "se-q-002600"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-169",
+    "title": "顺序图案例169",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000520",
+      "se-q-001917",
+      "se-q-000002"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-170",
+    "title": "用户故事案例170",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001069",
+      "se-q-000065",
+      "se-q-001870"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-171",
+    "title": "WBS案例171",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001241",
+      "se-q-003101",
+      "se-q-000506"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-172",
+    "title": "迭代计划案例172",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002658",
+      "se-q-002646",
+      "se-q-001335"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-173",
+    "title": "风险清单案例173",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003522",
+      "se-q-000819",
+      "se-q-001262"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-174",
+    "title": "测试协作案例174",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002226",
+      "se-q-002144",
+      "se-q-000388"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-175",
+    "title": "缺陷流转案例175",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000137",
+      "se-q-002971",
+      "se-q-000229"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-176",
+    "title": "版本发布案例176",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001485",
+      "se-q-003344",
+      "se-q-002902"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-177",
+    "title": "接口设计案例177",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001123",
+      "se-q-002508",
+      "se-q-002090"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-178",
+    "title": "数据库设计案例178",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002797",
+      "se-q-003346",
+      "se-q-003080"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-179",
+    "title": "课程设计报告案例179",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000002",
+      "se-q-002717",
+      "se-q-002765"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-180",
+    "title": "SE面试案例180",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003047",
+      "se-q-002395",
+      "se-q-001114"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-181",
+    "title": "需求分析案例181",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002933",
+      "se-q-003211",
+      "se-q-002580"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-182",
+    "title": "用例图案例182",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001681",
+      "se-q-000457",
+      "se-q-000176"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-183",
+    "title": "类图案例183",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000980",
+      "se-q-002508",
+      "se-q-002826"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-184",
+    "title": "顺序图案例184",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002240",
+      "se-q-002889",
+      "se-q-003051"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-185",
+    "title": "用户故事案例185",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002880",
+      "se-q-002631",
+      "se-q-000478"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-186",
+    "title": "WBS案例186",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001836",
+      "se-q-000364",
+      "se-q-000780"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-187",
+    "title": "迭代计划案例187",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003647",
+      "se-q-000005",
+      "se-q-002716"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-188",
+    "title": "风险清单案例188",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000951",
+      "se-q-003367",
+      "se-q-003361"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-189",
+    "title": "测试协作案例189",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000501",
+      "se-q-002723",
+      "se-q-002533"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-190",
+    "title": "缺陷流转案例190",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001548",
+      "se-q-001395",
+      "se-q-002376"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-191",
+    "title": "版本发布案例191",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003437",
+      "se-q-003177",
+      "se-q-000915"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-192",
+    "title": "接口设计案例192",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000050",
+      "se-q-000473",
+      "se-q-000491"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-193",
+    "title": "数据库设计案例193",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001899",
+      "se-q-002574",
+      "se-q-002469"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-194",
+    "title": "课程设计报告案例194",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002839",
+      "se-q-002254",
+      "se-q-000078"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-195",
+    "title": "SE面试案例195",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002726",
+      "se-q-000920",
+      "se-q-002090"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-196",
+    "title": "需求分析案例196",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001372",
+      "se-q-002089",
+      "se-q-002018"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-197",
+    "title": "用例图案例197",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003107",
+      "se-q-000018",
+      "se-q-003117"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-198",
+    "title": "类图案例198",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000047",
+      "se-q-002115",
+      "se-q-002517"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-199",
+    "title": "顺序图案例199",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001513",
+      "se-q-000734",
+      "se-q-002645"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-200",
+    "title": "用户故事案例200",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002623",
+      "se-q-002769",
+      "se-q-001526"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-201",
+    "title": "WBS案例201",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000920",
+      "se-q-003168",
+      "se-q-003690"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-202",
+    "title": "迭代计划案例202",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001447",
+      "se-q-000421",
+      "se-q-002349"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-203",
+    "title": "风险清单案例203",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002995",
+      "se-q-002881",
+      "se-q-002411"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-204",
+    "title": "测试协作案例204",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000245",
+      "se-q-000253",
+      "se-q-001680"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-205",
+    "title": "缺陷流转案例205",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000639",
+      "se-q-001732",
+      "se-q-001248"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-206",
+    "title": "版本发布案例206",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002313",
+      "se-q-003284",
+      "se-q-003251"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-207",
+    "title": "接口设计案例207",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001052",
+      "se-q-001266",
+      "se-q-003289"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-208",
+    "title": "数据库设计案例208",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000398",
+      "se-q-003208",
+      "se-q-002976"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-209",
+    "title": "课程设计报告案例209",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002522",
+      "se-q-000264",
+      "se-q-002672"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-210",
+    "title": "SE面试案例210",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003157",
+      "se-q-001312",
+      "se-q-000958"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-211",
+    "title": "需求分析案例211",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003485",
+      "se-q-001148",
+      "se-q-002118"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-212",
+    "title": "用例图案例212",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000369",
+      "se-q-000404",
+      "se-q-001716"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-213",
+    "title": "类图案例213",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003333",
+      "se-q-001609",
+      "se-q-000039"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-214",
+    "title": "顺序图案例214",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001072",
+      "se-q-000618",
+      "se-q-000522"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-215",
+    "title": "用户故事案例215",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001113",
+      "se-q-003324",
+      "se-q-000660"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-216",
+    "title": "WBS案例216",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002578",
+      "se-q-001445",
+      "se-q-001604"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-217",
+    "title": "迭代计划案例217",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003328",
+      "se-q-001658",
+      "se-q-002320"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-218",
+    "title": "风险清单案例218",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003631",
+      "se-q-002563",
+      "se-q-002838"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-219",
+    "title": "测试协作案例219",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001842",
+      "se-q-003034",
+      "se-q-001567"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-220",
+    "title": "缺陷流转案例220",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002948",
+      "se-q-000429",
+      "se-q-003623"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-221",
+    "title": "版本发布案例221",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000126",
+      "se-q-002756",
+      "se-q-000563"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-222",
+    "title": "接口设计案例222",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000172",
+      "se-q-000943",
+      "se-q-002275"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-223",
+    "title": "数据库设计案例223",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003290",
+      "se-q-000904",
+      "se-q-002881"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-224",
+    "title": "课程设计报告案例224",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000378",
+      "se-q-000190",
+      "se-q-001598"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-225",
+    "title": "SE面试案例225",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000147",
+      "se-q-000091",
+      "se-q-002532"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-226",
+    "title": "需求分析案例226",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002341",
+      "se-q-000359",
+      "se-q-000850"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-227",
+    "title": "用例图案例227",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003230",
+      "se-q-002790",
+      "se-q-000620"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-228",
+    "title": "类图案例228",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002465",
+      "se-q-000205",
+      "se-q-003515"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-229",
+    "title": "顺序图案例229",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001025",
+      "se-q-001736",
+      "se-q-000380"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-230",
+    "title": "用户故事案例230",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000763",
+      "se-q-000271",
+      "se-q-000098"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-231",
+    "title": "WBS案例231",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001122",
+      "se-q-002443",
+      "se-q-002102"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-232",
+    "title": "迭代计划案例232",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000553",
+      "se-q-000125",
+      "se-q-000115"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-233",
+    "title": "风险清单案例233",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003314",
+      "se-q-000351",
+      "se-q-000266"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-234",
+    "title": "测试协作案例234",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000304",
+      "se-q-001428",
+      "se-q-002439"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-235",
+    "title": "缺陷流转案例235",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001160",
+      "se-q-003094",
+      "se-q-002578"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-236",
+    "title": "版本发布案例236",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001470",
+      "se-q-002815",
+      "se-q-002663"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-237",
+    "title": "接口设计案例237",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002710",
+      "se-q-001514",
+      "se-q-001691"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-238",
+    "title": "数据库设计案例238",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001656",
+      "se-q-003273",
+      "se-q-000338"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-239",
+    "title": "课程设计报告案例239",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003442",
+      "se-q-002454",
+      "se-q-002006"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-240",
+    "title": "SE面试案例240",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000589",
+      "se-q-001267",
+      "se-q-002060"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-241",
+    "title": "需求分析案例241",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000605",
+      "se-q-003199",
+      "se-q-000338"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-242",
+    "title": "用例图案例242",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000582",
+      "se-q-001930",
+      "se-q-000248"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-243",
+    "title": "类图案例243",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000289",
+      "se-q-003117",
+      "se-q-002365"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-244",
+    "title": "顺序图案例244",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000339",
+      "se-q-000747",
+      "se-q-003297"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-245",
+    "title": "用户故事案例245",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003532",
+      "se-q-003145",
+      "se-q-003445"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-246",
+    "title": "WBS案例246",
+    "description": "通过WBS掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000888",
+      "se-q-002015",
+      "se-q-001230"
+    ],
+    "tags": [
+      "WBS"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-247",
+    "title": "迭代计划案例247",
+    "description": "通过迭代计划掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003438",
+      "se-q-001926",
+      "se-q-000256"
+    ],
+    "tags": [
+      "迭代计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-248",
+    "title": "风险清单案例248",
+    "description": "通过风险清单掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000454",
+      "se-q-001531",
+      "se-q-002489"
+    ],
+    "tags": [
+      "风险清单"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-249",
+    "title": "测试协作案例249",
+    "description": "通过测试协作掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000706",
+      "se-q-003449",
+      "se-q-003184"
+    ],
+    "tags": [
+      "测试协作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-250",
+    "title": "缺陷流转案例250",
+    "description": "通过缺陷流转掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002638",
+      "se-q-001039",
+      "se-q-002300"
+    ],
+    "tags": [
+      "缺陷流转"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-251",
+    "title": "版本发布案例251",
+    "description": "通过版本发布掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002343",
+      "se-q-003184",
+      "se-q-001001"
+    ],
+    "tags": [
+      "版本发布"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-252",
+    "title": "接口设计案例252",
+    "description": "通过接口设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001277",
+      "se-q-003441",
+      "se-q-002654"
+    ],
+    "tags": [
+      "接口设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-253",
+    "title": "数据库设计案例253",
+    "description": "通过数据库设计掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001942",
+      "se-q-002899",
+      "se-q-001107"
+    ],
+    "tags": [
+      "数据库设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-254",
+    "title": "课程设计报告案例254",
+    "description": "通过课程设计报告掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001753",
+      "se-q-001459",
+      "se-q-000268"
+    ],
+    "tags": [
+      "课程设计报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-255",
+    "title": "SE面试案例255",
+    "description": "通过SE面试掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-002306",
+      "se-q-001225",
+      "se-q-000605"
+    ],
+    "tags": [
+      "SE面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-256",
+    "title": "需求分析案例256",
+    "description": "通过需求分析掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-001257",
+      "se-q-002990",
+      "se-q-003442"
+    ],
+    "tags": [
+      "需求分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-257",
+    "title": "用例图案例257",
+    "description": "通过用例图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003415",
+      "se-q-000623",
+      "se-q-002986"
+    ],
+    "tags": [
+      "用例图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-258",
+    "title": "类图案例258",
+    "description": "通过类图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-003673",
+      "se-q-003216",
+      "se-q-002306"
+    ],
+    "tags": [
+      "类图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-259",
+    "title": "顺序图案例259",
+    "description": "通过顺序图掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000112",
+      "se-q-000792",
+      "se-q-002248"
+    ],
+    "tags": [
+      "顺序图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "se-case-260",
+    "title": "用户故事案例260",
+    "description": "通过用户故事掌握SE",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "需求",
+        "description": "定义"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "se-q-000723",
+      "se-q-003588",
+      "se-q-001402"
+    ],
+    "tags": [
+      "用户故事"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
