@@ -1,562 +1,81 @@
 [
   {
-    "id": "se-route-01",
-    "slug": "SE路线1",
-    "title": "SE路线1",
-    "description": "SE路线1",
-    "targetUser": "目标1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线1"
+    "id": "mod-software-engineering-route-1",
+    "slug": "professional-path",
+    "title": "软件工程与项目管理 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 软件工程与项目管理 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "软件工程与项目管理 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-software-engineering-c-1",
+        "lessonId": "mod-software-engineering-l-1"
+      },
+      {
+        "order": 2,
+        "title": "软件工程与项目管理 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-software-engineering-c-1",
+        "lessonId": "mod-software-engineering-l-2"
+      },
+      {
+        "order": 3,
+        "title": "软件工程与项目管理 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-software-engineering-c-2",
+        "lessonId": "mod-software-engineering-l-3"
+      },
+      {
+        "order": 4,
+        "title": "软件工程与项目管理 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-software-engineering-c-2",
+        "lessonId": "mod-software-engineering-l-4"
+      },
+      {
+        "order": 5,
+        "title": "软件工程与项目管理 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-software-engineering-c-3",
+        "lessonId": "mod-software-engineering-l-5"
+      },
+      {
+        "order": 6,
+        "title": "软件工程与项目管理 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-software-engineering-c-3",
+        "lessonId": "mod-software-engineering-l-6"
+      }
+    ]
   },
   {
-    "id": "se-route-02",
-    "slug": "SE路线2",
-    "title": "SE路线2",
-    "description": "SE路线2",
-    "targetUser": "目标2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线2"
-  },
-  {
-    "id": "se-route-03",
-    "slug": "SE路线3",
-    "title": "SE路线3",
-    "description": "SE路线3",
-    "targetUser": "目标3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线3"
-  },
-  {
-    "id": "se-route-04",
-    "slug": "SE路线4",
-    "title": "SE路线4",
-    "description": "SE路线4",
-    "targetUser": "目标4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线4"
-  },
-  {
-    "id": "se-route-05",
-    "slug": "SE路线5",
-    "title": "SE路线5",
-    "description": "SE路线5",
-    "targetUser": "目标5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线5"
-  },
-  {
-    "id": "se-route-06",
-    "slug": "SE路线6",
-    "title": "SE路线6",
-    "description": "SE路线6",
-    "targetUser": "目标6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线6"
-  },
-  {
-    "id": "se-route-07",
-    "slug": "SE路线7",
-    "title": "SE路线7",
-    "description": "SE路线7",
-    "targetUser": "目标7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线7"
-  },
-  {
-    "id": "se-route-08",
-    "slug": "SE路线8",
-    "title": "SE路线8",
-    "description": "SE路线8",
-    "targetUser": "目标8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线8"
-  },
-  {
-    "id": "se-route-09",
-    "slug": "SE路线9",
-    "title": "SE路线9",
-    "description": "SE路线9",
-    "targetUser": "目标9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线9"
-  },
-  {
-    "id": "se-route-10",
-    "slug": "SE路线10",
-    "title": "SE路线10",
-    "description": "SE路线10",
-    "targetUser": "目标10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线10"
-  },
-  {
-    "id": "se-route-11",
-    "slug": "SE路线11",
-    "title": "SE路线11",
-    "description": "SE路线11",
-    "targetUser": "目标11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线11"
-  },
-  {
-    "id": "se-route-12",
-    "slug": "SE路线12",
-    "title": "SE路线12",
-    "description": "SE路线12",
-    "targetUser": "目标12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线12"
-  },
-  {
-    "id": "se-route-13",
-    "slug": "SE路线13",
-    "title": "SE路线13",
-    "description": "SE路线13",
-    "targetUser": "目标13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线13"
-  },
-  {
-    "id": "se-route-14",
-    "slug": "SE路线14",
-    "title": "SE路线14",
-    "description": "SE路线14",
-    "targetUser": "目标14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线14"
-  },
-  {
-    "id": "se-route-15",
-    "slug": "SE路线15",
-    "title": "SE路线15",
-    "description": "SE路线15",
-    "targetUser": "目标15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线15"
-  },
-  {
-    "id": "se-route-16",
-    "slug": "SE路线16",
-    "title": "SE路线16",
-    "description": "SE路线16",
-    "targetUser": "目标16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线16"
-  },
-  {
-    "id": "se-route-17",
-    "slug": "SE路线17",
-    "title": "SE路线17",
-    "description": "SE路线17",
-    "targetUser": "目标17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线17"
-  },
-  {
-    "id": "se-route-18",
-    "slug": "SE路线18",
-    "title": "SE路线18",
-    "description": "SE路线18",
-    "targetUser": "目标18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线18"
-  },
-  {
-    "id": "se-route-19",
-    "slug": "SE路线19",
-    "title": "SE路线19",
-    "description": "SE路线19",
-    "targetUser": "目标19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线19"
-  },
-  {
-    "id": "se-route-20",
-    "slug": "SE路线20",
-    "title": "SE路线20",
-    "description": "SE路线20",
-    "targetUser": "目标20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线20"
-  },
-  {
-    "id": "se-route-21",
-    "slug": "SE路线21",
-    "title": "SE路线21",
-    "description": "SE路线21",
-    "targetUser": "目标21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线21"
-  },
-  {
-    "id": "se-route-22",
-    "slug": "SE路线22",
-    "title": "SE路线22",
-    "description": "SE路线22",
-    "targetUser": "目标22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线22"
-  },
-  {
-    "id": "se-route-23",
-    "slug": "SE路线23",
-    "title": "SE路线23",
-    "description": "SE路线23",
-    "targetUser": "目标23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线23"
-  },
-  {
-    "id": "se-route-24",
-    "slug": "SE路线24",
-    "title": "SE路线24",
-    "description": "SE路线24",
-    "targetUser": "目标24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线24"
-  },
-  {
-    "id": "se-route-25",
-    "slug": "SE路线25",
-    "title": "SE路线25",
-    "description": "SE路线25",
-    "targetUser": "目标25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线25"
-  },
-  {
-    "id": "se-route-26",
-    "slug": "SE路线26",
-    "title": "SE路线26",
-    "description": "SE路线26",
-    "targetUser": "目标26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线26"
-  },
-  {
-    "id": "se-route-27",
-    "slug": "SE路线27",
-    "title": "SE路线27",
-    "description": "SE路线27",
-    "targetUser": "目标27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线27"
-  },
-  {
-    "id": "se-route-28",
-    "slug": "SE路线28",
-    "title": "SE路线28",
-    "description": "SE路线28",
-    "targetUser": "目标28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线28"
-  },
-  {
-    "id": "se-route-29",
-    "slug": "SE路线29",
-    "title": "SE路线29",
-    "description": "SE路线29",
-    "targetUser": "目标29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线29"
-  },
-  {
-    "id": "se-route-30",
-    "slug": "SE路线30",
-    "title": "SE路线30",
-    "description": "SE路线30",
-    "targetUser": "目标30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线30"
-  },
-  {
-    "id": "se-route-31",
-    "slug": "SE路线31",
-    "title": "SE路线31",
-    "description": "SE路线31",
-    "targetUser": "目标31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线31"
-  },
-  {
-    "id": "se-route-32",
-    "slug": "SE路线32",
-    "title": "SE路线32",
-    "description": "SE路线32",
-    "targetUser": "目标32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线32"
-  },
-  {
-    "id": "se-route-33",
-    "slug": "SE路线33",
-    "title": "SE路线33",
-    "description": "SE路线33",
-    "targetUser": "目标33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线33"
-  },
-  {
-    "id": "se-route-34",
-    "slug": "SE路线34",
-    "title": "SE路线34",
-    "description": "SE路线34",
-    "targetUser": "目标34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线34"
-  },
-  {
-    "id": "se-route-35",
-    "slug": "SE路线35",
-    "title": "SE路线35",
-    "description": "SE路线35",
-    "targetUser": "目标35",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "SE路线35"
+    "id": "mod-software-engineering-route-2",
+    "slug": "quick-start-path",
+    "title": "软件工程与项目管理 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "软件工程与项目管理 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-software-engineering-c-1",
+        "lessonId": "mod-software-engineering-l-1"
+      },
+      {
+        "order": 3,
+        "title": "软件工程与项目管理 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-software-engineering-c-2",
+        "lessonId": "mod-software-engineering-l-3"
+      },
+      {
+        "order": 5,
+        "title": "软件工程与项目管理 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-software-engineering-c-3",
+        "lessonId": "mod-software-engineering-l-5"
+      }
+    ]
   }
 ]
